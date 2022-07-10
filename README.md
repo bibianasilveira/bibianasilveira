@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bibianasluft
+- 👋 Hi, I’m @bibianasilveiraluft
 - 👀 I’m interested in UX/UI design
 - 🌱 I’m currently expanding upon my knowledge on all things UX/UI, Figma and Adobe XD
 - 💞️ I’m looking to collaborate on all things UX/UI
