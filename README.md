@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bibianasilveira
+- 👋 Hi, I’m @bibianasluft
 - 👀 I’m interested in UX/UI design
-- 🌱 I’m currently learning UX writing and Figma, and expanding upon Adobe XD
-- 💞️ I’m looking to collaborate on catalogs, writing, UI
+- 🌱 I’m currently expanding upon my knowledge on all things UX/UI, Figma and Adobe XD
+- 💞️ I’m looking to collaborate on all things UX/UI
 - 📫 You can reach me at bibiana.silveira at gmail.com
 
 <!---
