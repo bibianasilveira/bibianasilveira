@@ -5,6 +5,6 @@
 - 📫 You can reach me at bibiana.silveira at gmail.com
 
 <!---
-bibianasilveira/bibianasilveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bibianasilveiraluft/bibianasilveiraluft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
